@@ -1,3 +1,14 @@
+simpleScreenGrab is a lightweight Windows tool that lets you quickly capture a region of your screen and copy it straight to the clipboard as an image.
+
+🖱️ Drag to select any area of the screen
+
+📋 Paste instantly into Word, Paint, Slack, Discord, etc.
+
+⎋ Press Esc to cancel mid-snipping
+
+🚀 Works across multiple monitors
+
+
 How to Install
 
 - Download the latest release from the Releases page
