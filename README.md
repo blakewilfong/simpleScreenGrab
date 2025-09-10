@@ -14,6 +14,9 @@ Release mouse → the screenshot is copied to clipboard.
 
 Press Esc to cancel without capturing.
 
+⚠️ Windows may show a SmartScreen warning since this app isn’t code-signed.
+Click More info → Run anyway to continue.
+
 
 License
 
