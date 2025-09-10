@@ -17,6 +17,26 @@ Press Esc to cancel without capturing.
 ⚠️ Windows may show a SmartScreen warning since this app isn’t code-signed.
 Click More info → Run anyway to continue.
 
+I recommend building from source, this will prevent the SmartScreen warnings from occuring.
+
+- <a href="https://www.python.org/downloads/" target="_blank">Download Python</a>
+
+Open a terminal and run:
+
+- git clone https://github.com/YOUR_USERNAME/simpleScreenGrab.git
+- cd simpleScreenGrab
+- pip install -r requirements.txt
+- python main.py
+
+To make a standalone Windows executable:
+
+- pip install pyinstaller
+
+- pyinstaller --onefile --noconsole main.py
+
+The compiled .exe will be in the dist/ folder.
+Double-click it to run without needing Python installed.  You can bind this to a key or mouse button to use as a macro.
+
 
 License
 
